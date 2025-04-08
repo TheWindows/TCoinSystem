@@ -1,12 +1,12 @@
-> # ◻ | Todo
+># ◻ | Todo
 <br>
-> - Add The Random Quests For Earning T Coin. (❌)
-> - Add Tags For ScoreHud. (❌)
-> - Add More Items In Shop And More Options To Edit. (❌)
+>- Add The Random Quests For Earning T Coin. (❌)
+>- Add Tags For ScoreHud. (❌)
+>- Add More Items In Shop And More Options To Edit. (❌)
 <br>
 # ❔ | How This Plugin Work?
 <br>
-> make sure the player have permission or have operator role in game!
+>make sure the player have permission or have operator role in game!
 <br>
 - This Command Add A New Coin System In Your Server That You Can Use Also The Players Can Buy T Coins.
 - Also T Coin Price Update Every 1 Hour And Its Change Like A DigitalCurrency!

@@ -26,11 +26,11 @@
 - /tcoinadmin - Opening TCoinSystem Admin Ui
 
 # 🧨 | Permissions
-<br>
+
 - tcoinsystem.admin
-<br>
+
 # 🔑 | Dependencies
-<br>
+
 - EconomyApi 
 - ScoreHud
 - FormAPI

@@ -1,0 +1,28 @@
+name: TCoinSystem
+version: 1.0.1
+main: TCoinSystem\TheWindows\Main
+api: 5.0.0
+author: TheWindows
+description: Adds a new T Coin currency system to your server
+commands:
+  tcoin:
+    description: Opens the T Coin system menu
+    usage: "/tcoin"
+    aliases: ["tc"]
+    permission: tcoinsystem.command
+  tcoinadmin:
+    description: TCoin system administration
+    usage: "/tcoinadmin"
+    permission: tcoinsystem.admin
+depend:
+  - EconomyAPI
+  - FormAPI
+softdepend:
+  - ScoreHud
+permissions:
+  tcoinsystem.command:
+    default: true
+    description: Allows players to use the /tcoin command
+  tcoinsystem.admin:
+    default: op
+    description: Allows access to TCoin admin commands

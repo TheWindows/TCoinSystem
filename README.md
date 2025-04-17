@@ -1,4 +1,4 @@
-># ◻ | Todo.
+># ◻ | Todo
 
 >- [ ] Add The Random Quests For Earning T Coin. 
 >- [ ] Add Tags For ScoreHud.
